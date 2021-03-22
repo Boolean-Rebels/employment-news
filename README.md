@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Boolean Rebels
 
 You can use the [editor on GitHub](https://github.com/Boolean-Rebels/employment-news/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
